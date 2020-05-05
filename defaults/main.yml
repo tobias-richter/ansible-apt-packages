@@ -1,0 +1,19 @@
+apt_packages_default: []
+#  - nano
+#  - htop
+#  - git
+#  - iftop
+#  - iotop
+#  - lsb-release
+#  - sudo
+#  - dnsutils
+#  - net-tools
+#  - bmon
+#  - mailutils
+#  - curl
+#  - moreutils
+#  - rsync
+#  - apt-file
+#  - ncdu
+
+apt_packages_custom: []
