@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/tobias-richter/ansible-apt-packages.svg?branch=master)](https://travis-ci.org/tobias-richter/ansible-apt-packages)
 
-This roles installs apt packages on debian based systems.
+This role installs apt packages on debian based systems.
 
 ## Requirements
 
