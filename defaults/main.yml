@@ -1,3 +1,4 @@
+# Default packages (e.g. configured via group_vars/all/packages.yml)
 apt_packages_default: []
 #  - nano
 #  - htop
@@ -16,4 +17,5 @@ apt_packages_default: []
 #  - apt-file
 #  - ncdu
 
+# custom packages (e.g. configured via host_vars)
 apt_packages_custom: []
