@@ -19,3 +19,9 @@ apt_packages_default: []
 
 # custom packages (e.g. configured via host_vars)
 apt_packages_custom: []
+
+# Default packages to be removed
+apt_packages_absent_default: []
+
+# Custom packages (e.g. configured via host_vars)
+apt_packages_absent_custom: []
