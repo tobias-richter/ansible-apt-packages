@@ -1,3 +1,8 @@
 - name: Install packages.
   apt:
     name: "{{ apt_packages_default | union(apt_packages_custom) | unique }}"
+
+- name: Uninstall packages.
+  apt:
+    name: "{{ apt_packages_absent_default | union(apt_packages_absent_custom) | unique }}"
+    state: absent
