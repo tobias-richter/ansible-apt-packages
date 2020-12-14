@@ -1,6 +1,6 @@
 # tobias_richter.apt_packages
 
-[![Build Status](https://travis-ci.org/tobias-richter/ansible-apt-packages.svg?branch=master)](https://travis-ci.org/tobias-richter/ansible-apt-packages)
+[![Build Status](https://github.com/tobias-richter/ansible-apt-packages/workflows/CI/badge.svg)](https://github.com/tobias-richter/ansible-apt-packages/actions)
 
 This role installs apt packages on debian based systems.
 
