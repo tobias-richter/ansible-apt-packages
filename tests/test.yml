@@ -1,4 +1,4 @@
 - name: test role syntax
   hosts: test
   roles:
-    - ansible-apt-packages
+    - apt_packages
